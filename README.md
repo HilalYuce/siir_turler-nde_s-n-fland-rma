@@ -2,6 +2,9 @@
 # Türkçe Şiir İşleme Projesi
 
 Bu proje, Türkçe şiir metinlerinin web'den çekilmesi, Zemberek kütüphanesi ile morfolojik analiz yapılması ve stopword'lerin temizlenmesi gibi işlemleri içermektedir. Kodlar, şiir verilerini anlamlı bir şekilde düzenlemeyi ve analiz etmeyi amaçlar.
+Verilerin google drive linki 
+https://drive.google.com/drive/folders/1FWjnqdeP94AbzqF9MgYEJ1kanGnnEj4H?usp=sharing
+
 
 ## Proje İçeriği
 
@@ -67,12 +70,4 @@ Bu proje, Türkçe şiir metinlerinin web'den çekilmesi, Zemberek kütüphanesi
 
 ---
 
-## Katkıda Bulunma
 
-Katkıda bulunmak isterseniz, lütfen bir **Pull Request** oluşturun veya bir **Issue** açın.
-
----
-
-## Lisans
-
-Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için [Lisans Dosyasını](LICENSE) inceleyin.
