@@ -37,7 +37,7 @@ Bu proje, Türkçe şiir metinlerinin web'den çekilmesi, Zemberek kütüphanesi
   pip install pandas selenium beautifulsoup4 jpype1
   ```
   Zemberek dosyasının kurulumu ve kullanımı için bu linki ziyaret edin:
-  -https://github.com/ozturkberkay/Zemberek-Python-Examples
+   https://github.com/ozturkberkay/Zemberek-Python-Examples
 - [Zemberek JAR dosyası](https://github.com/ahmetaa/zemberek-nlp): `zemberek-full.jar` dosyasını indirin ve uygun bir klasöre yerleştirin.
 
 ### Adımlar
